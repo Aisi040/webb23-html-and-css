@@ -1,0 +1,36 @@
+ol{
+display: inline-block;
+
+position: relative;
+    top: 50px;
+    left:200px;
+}
+
+h1{
+    display:none; /*gömmer den*/
+    position:absolute;
+    top: 0px;
+    left: 50px;
+    color:red;}
+p{
+    color: rgb(23, 230, 95);
+font-size: 40px;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
+h2{
+border-radius: 20px;
+background-color: bisque;
+    font-style: italic; 
+    border: 8px solid purple;
+    border-color: blue
+    border-width: 5px;
+    border-style: dotted;  /* hihihi */
+}
+div{
+        background-image: C:\Users\dkarn\OneDrive\Skrivbord\Demo1\Images\BILD1.jpg
+    
+}
